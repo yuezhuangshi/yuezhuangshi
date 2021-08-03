@@ -20,9 +20,3 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 <a href="https://yuezhuangshi.cn/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuezhuangshi&layout=compact" />
 </a>
-
-
-
-[![yuezhuangshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuezhuangshi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuezhuangshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
