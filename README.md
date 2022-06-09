@@ -1,4 +1,4 @@
-###  Hi there <a href="https://yuezhuangshi.cn/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+###  Hi there <a href="https://yuezhuangshi.cn/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"></a>
 
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
