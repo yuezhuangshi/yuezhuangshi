@@ -8,5 +8,5 @@ Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 - 🔭 Focusing on Cloud Native :wink:
 
 <a href="https://yuezhuangshi.cn/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuezhuangshi&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuezhuangshi&show_icons=true&include_all_commits=true" />
 </a>
