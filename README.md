@@ -4,8 +4,9 @@
 
 Thanks for visiting my GitHub profile, it's great to meet you here! 😊
 
-- 🧔 I am an DevOps engineer 🚀
-- 🔭 Focusing on Cloud Native :wink:
+- 🧔 I am an DevOps engineer
+- 🔭 Focusing on Cloud Native
+- 🚀 Committed to the improvement of R&D efficiency
 
 <a href="https://yuezhuangshi.cn/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=yuezhuangshi&show_icons=true&include_all_commits=true" />
